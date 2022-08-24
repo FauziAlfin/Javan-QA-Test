@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Project Manager</name>
+   <tag></tag>
+   <elementGuidId>c495d120-f539-4496-ab05-15aa4abbcf3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='knowledge-dropdown-categories']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>955f0cc5-eea1-4adc-a7ff-2b734e8a2f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://javan.co.id/knowledge?category=Project%20Manager</value>
+      <webElementGuid>5a523765-a376-4fb8-8405-ff0ff97c8fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block hover:bg-primary hover:text-white pl-4 py-1.5</value>
+      <webElementGuid>313638ce-3472-4390-b44c-f8d526341ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>1c968665-0c74-446f-ade0-4ad9a1891058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project Manager</value>
+      <webElementGuid>f7f8fa9d-59e7-4165-ae76-5b2731fc5da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;knowledge-dropdown-categories&quot;)/div[@class=&quot;font-nunito font-semibold text-base text-black-50%&quot;]/a[@class=&quot;block hover:bg-primary hover:text-white pl-4 py-1.5&quot;]</value>
+      <webElementGuid>4d54991c-7284-41a9-b1a5-5f63e0bb9485</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='knowledge-dropdown-categories']/div/a</value>
+      <webElementGuid>636113f3-462f-4bc9-a207-148424824aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Project Manager')]</value>
+      <webElementGuid>1c04e990-6e9b-4bb1-aa1a-cdcc74b751e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::a[1]</value>
+      <webElementGuid>e3623c8d-8224-4e02-9927-bd6d065e3ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge Center'])[3]/following::a[1]</value>
+      <webElementGuid>06fa5016-a854-4db5-b1bf-a0790f0a2b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BPMN'])[1]/preceding::a[1]</value>
+      <webElementGuid>d7f60b7d-df8b-46c3-be81-7528a1dbe302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Istilah-istilah Penting pada BPMN'])[1]/preceding::a[3]</value>
+      <webElementGuid>d40e3161-a11b-45c1-bac3-96bc3a709ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Project Manager']/parent::*</value>
+      <webElementGuid>6d14d3eb-df13-4488-ae14-b89e82a947c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://javan.co.id/knowledge?category=Project%20Manager')]</value>
+      <webElementGuid>0b5e4251-879b-4dcf-b962-bc5ef5b7db1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>2a06bd52-2d1c-44cc-8c02-5485b7f4730c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://javan.co.id/knowledge?category=Project%20Manager' and (text() = 'Project Manager' or . = 'Project Manager')]</value>
+      <webElementGuid>3636d69b-5513-4fcd-a16d-71761974fcce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

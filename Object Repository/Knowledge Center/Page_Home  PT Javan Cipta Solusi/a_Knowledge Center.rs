@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Knowledge Center</name>
+   <tag></tag>
+   <elementGuidId>1b96996c-b758-408a-9b5a-9d1d1e1862c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='mobileMenu']/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a5c56b4-4370-434e-9f16-96ab593b36c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/knowledge</value>
+      <webElementGuid>ca3ced60-9d43-43c9-bcb1-39b31e7e4029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base text-white</value>
+      <webElementGuid>84b5599d-cb37-414b-8cfd-5642d63bf81e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Knowledge Center</value>
+      <webElementGuid>85eb1e1d-db97-44f4-a67d-9925b47ff321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobileMenu&quot;)/li[@class=&quot;pr-5&quot;]/a[@class=&quot;text-base text-white&quot;]</value>
+      <webElementGuid>823947c3-1754-4ffc-8178-4d16bcf61b00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mobileMenu']/li[6]/a</value>
+      <webElementGuid>3617d07f-4232-45a5-85b0-acdb44ef359c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Knowledge Center')])[2]</value>
+      <webElementGuid>2257c60f-95cd-4d97-b870-0a5d47616fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career'])[2]/preceding::a[1]</value>
+      <webElementGuid>6f3b02ad-7d2e-4f2e-9649-15df0f72f9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/preceding::a[2]</value>
+      <webElementGuid>f2f52b1b-13e5-4207-b514-5f4225d73cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/knowledge')])[2]</value>
+      <webElementGuid>3b3c09a2-bd9b-45f9-996e-a6df89043b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>5d86394c-884c-44d7-b3d8-ffa0459964f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/knowledge' and (text() = 'Knowledge Center' or . = 'Knowledge Center')]</value>
+      <webElementGuid>ba136f54-b9f3-46ab-9a5f-621fe4381ea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

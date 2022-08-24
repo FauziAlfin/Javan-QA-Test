@@ -21,19 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://javan.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Portofolio Bugs/Page_Home  PT Javan Cipta Solusi/svg_Portfolio_h-5 inline'))
+WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Home  PT Javan Cipta Solusi/a_Knowledge Center'))
 
-WebUI.click(findTestObject('Object Repository/Portofolio Bugs/Page_Home  PT Javan Cipta Solusi/a_Portfolio'))
+WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Knowledge Center  PT Javan Cipta Solusi/button_Kategori'))
 
-WebUI.click(findTestObject('Object Repository/Portofolio Bugs/Page_Portfolio  PT Javan Cipta Solusi/button_Tipe Klien'))
-
-WebUI.click(findTestObject('Object Repository/Portofolio Bugs/Page_Portfolio  PT Javan Cipta Solusi/a_Swasta'))
-
-WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Home  PT Javan Cipta Solusi/svg_Portfolio_h-5 inline'))
-
-WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Home  PT Javan Cipta Solusi/a_Portfolio'))
-
-WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Portfolio  PT Javan Cipta Solusi/button_Tipe Klien'))
-
-WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Portfolio  PT Javan Cipta Solusi/a_Swasta'))
+WebUI.click(findTestObject('Object Repository/Knowledge Center/Page_Knowledge Center  PT Javan Cipta Solusi/a_Project Manager'))
 
